@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @xwinder-pi-x
+/src/backend/database.py      @xwinder-pi-x
+/src/backend/routers/auth.py  @xwinder-pi-x
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @xwinder-pi-x
